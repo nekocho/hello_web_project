@@ -1,0 +1,18 @@
+{
+  "name": "hello_web_project",
+  "version": "1.0.0",
+  "description": "This is a starter project for you to use to start your Flask web & database projects.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.3"
+  }
+}
